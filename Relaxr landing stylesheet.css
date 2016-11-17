@@ -1,0 +1,15 @@
+body{
+	background-image: url("https://github.com/ga-students/fewd-denver-2/blob/master/Week_02_Styling/Assignment/starter_code/images/header_bg.jpg?raw=true");
+}
+
+h1{
+	font-color: #ffffff;
+	font-size: 24px;
+}
+
+h2{
+	font-size: 24px;
+	text-align:center;
+}
+
+
